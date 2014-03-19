@@ -1,5 +1,8 @@
 # (DBC) Continuous
 
+[![Build Status](https://travis-ci.org/ryanbriones/dbc-continuous.png?branch=master)](https://travis-ci.org/ryanbriones/dbc-continuous)
+[![Coverage Status](https://coveralls.io/repos/ryanbriones/dbc-continuous/badge.png?branch=master)](https://coveralls.io/r/ryanbriones/dbc-continuous?branch=master)
+
 An example app demonstrating Travis CI and Coveralls
 
 ## Running
